@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "2012"
-        version   = "3.1.0">
-    <name>Moodle Mobile</name>
+        id        = "au.edu.vic.marcellinmobile"
+        versionCode = "2016"
+        version   = "1.0.0">
+    <name>Marcellin Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Marcellin Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
